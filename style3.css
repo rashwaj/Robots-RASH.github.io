@@ -1,0 +1,26 @@
+body{
+    display: ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form{
+    width: 500px;
+    padding: 6px;
+}
+input,
+
+ text area{
+
+width: 100%;
+padding: 6px;
+outline: none;
+border: none;
+margin: 6px 0px;
+
+}
+#btn{
+    width: 150px;
+    padding: 6px;
+    cursor: pointer;
+}
